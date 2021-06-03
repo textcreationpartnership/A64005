@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Two associations one subscribed by CLVI members of the House of Commons in the year 1643 : the other seized in the closet of the Earl of Shaftsbury, with a list of the grand-jury that found the bill against the Earl of Danby upon the single evidence of Fitz-Harris : also Fitz-Harris's grand and petty juries : together with the three grand-juries that returned the bills ignoramus against Stephen College, John Rouse, and the Earl of Shaftsbury.</title>
+         </titleStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64005</idno><idno type="EEBO-CITATION">14561547</idno>
+  <idno type="VID">102593</idno>
+  <idno type="EEBO-PROQUEST">2264218075</idno>
+  
+            <idno type="STC">Wing T3428</idno>
+            <idno type="STC">ESTC R34685</idno>
+            <idno type="OCLC">14561547</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A64005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1076:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Two associations one subscribed by CLVI members of the House of Commons in the year 1643 : the other seized in the closet of the Earl of Shaftsbury, with a list of the grand-jury that found the bill against the Earl of Danby upon the single evidence of Fitz-Harris : also Fitz-Harris's grand and petty juries : together with the three grand-juries that returned the bills ignoramus against Stephen College, John Rouse, and the Earl of Shaftsbury.</title>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Mearne and John Baker,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+               <term type="personal_name">Leeds, Thomas Osborne, --  Duke of, 1631-1712.</term>
+               <term type="personal_name">Fitzharris, Edward, 1648?-1681.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:102593:1"/>
+            <head>To the READER.</head>
+            <p>THere is nothing in these <hi>Sheets,</hi> but naked matter of <hi>Fact,</hi> without either <hi>Disguise,</hi> or <hi>Comment:</hi> some will think it too <hi>much,</hi> others too <hi>little.</hi> And since it is not possible for one Man to please All, it is left to every man, (if he can do it,) to please himself; and either to <hi>Read</hi> these Papers, or to let them <hi>alone,</hi> as he likes best.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:102593:2"/>
+            <p>THE TWO ASSOCIATIONS. One Subscribed by CLVI MEMBERS OF THE House of Commons In the Year 1643.</p>
+            <p>The other Seized in the CLOSET of the <hi>Earl of Shaftsbury,</hi> With a LIST of the GRAND-JURY That Found the BILL against the Earl of Danby Upon the single EVIDENCE of <hi>Fitz-Harris.</hi>
+            </p>
+            <p>ALSO <hi>Fitz-Harris</hi>'s Grand and Petty Juries.</p>
+            <p>TOGETHER WITH The three GRAND-JURIES that Returned the BILLS <hi>Ignoramus</hi> against <hi>Stephen College, John Rouse,</hi> and the Earl of <hi>Shaftsbury.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Samuel Mearne</hi> and <hi>John Baker,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="covenant">
+            <pb facs="tcp:102593:3"/>
+            <pb n="1" facs="tcp:102593:3"/>
+            <head>The Oath and Cove<g ref="char:EOLhyphen"/>nant sign'd by several Members of the House of Commons, <hi>Martis 6. die Junii 1643.</hi>
+            </head>
+            <p>WHereas there hath been, and now is in this Kingdom a Popish and Trayterous Plot for the subversion of the true Pro<g ref="char:EOLhyphen"/>testant Reformed Religion and Liberty of the Subject, and in pursuance thereof a Popish Army hath been raised and is now on Foot in divers parts of this King<g ref="char:EOLhyphen"/>dom; and whereas there hath been a Treacherous and horrid Design lately Discovered by the great Blessing and especial Provi<g ref="char:EOLhyphen"/>dence of God, of divers per<g ref="char:EOLhyphen"/>sons to joyn themselves with the Armies raised by the King, and to destroy the Forces raised by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="2" facs="tcp:102593:4"/>to surprize the Cities of <hi>London</hi> and <hi>Westminster,</hi> with the Suburbs, by Arms to force the Parliament; and finding by constant experi<g ref="char:EOLhyphen"/>ence that many ways of Force and Treachery are continually attempted to bring to utter Ruine and Destruction the Parliament and Kingdom, and that which is dearest, the true Protestant Religion: And that for the preventing and withstanding the same, it is fit, that all who are true hearted and lovers of their Countrey should bind themselves each to other in a sacred Vow and Cove<g ref="char:EOLhyphen"/>nant,</p>
+            <q>
+               <pb n="3" facs="tcp:102593:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>
+                           <hi>I A. B.</hi> in Humility and Re<g ref="char:EOLhyphen"/>verence of the Divine Majesty declare my hearty sor<g ref="char:EOLhyphen"/>row for my own Sins, and the Sins of this Nation, which have deserved the Calamities and Judgments that now lye up<g ref="char:EOLhyphen"/>on it, and my true intention is by Gods Grace to endeavour the Amendment of my own Ways. And I do further in the pre<g ref="char:EOLhyphen"/>sence of Almighty God De<g ref="char:EOLhyphen"/>clare, Vow and Covenant, that in order to the Security and Preservation of the true Re<g ref="char:EOLhyphen"/>formed Protestant Religion, and Liberty of the Subject, I will not consent to the laying down of Arms so long as the Papists now in open War against the Parliament, shall by force of Arms be protected from the
+<pb n="4" facs="tcp:102593:5"/>Justice thereof. And that I do Abhor and detest the said wicked and treacherous Design lately discovered; and that I never gave, or will give my assent to the Execution thereof; but will according to my Power and Vo<g ref="char:EOLhyphen"/>cation oppose and resist the same, and all other of the like nature; And in case any other like De<g ref="char:EOLhyphen"/>sign shall hereafter come to my knowledge, I will make such timely discovery as I shall con<g ref="char:EOLhyphen"/>ceive may best conduce to the preventing thereof: And where<g ref="char:EOLhyphen"/>as I do in my Conscience believe that the Forces raised by the two Houses of Parliament, are raised &amp; continued for their just Defence, and for the Defence of the true Protestant Reli<g ref="char:EOLhyphen"/>gion and Liberty of the Sub<g ref="char:EOLhyphen"/>ject, against the Forces raised by the King: That I will ac<g ref="char:EOLhyphen"/>cording to my Power and Vo<g ref="char:EOLhyphen"/>cation assist the Forces raised and continued by both Houses of Parliament, against the Forces raised by the King, without their Consent; and will likewise assist all other Persons that shall take this Oath, in what they shall do in pursuance
+<pb n="5" facs="tcp:102593:5"/>thereof. And will not Direct<g ref="char:EOLhyphen"/>ly or Indirectly adhere unto; nor shall willingly assist the For<g ref="char:EOLhyphen"/>ces raised by the King, with<g ref="char:EOLhyphen"/>out the Consent of both Houses of Parliament. And this Vow and Covenant I make in the presence of Almighty God, the searcher of all Hearts, with a true intention to perform the same, as I shall answer at the great Day when the secrets of all hearts shall be disclosed.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="covenant">
+            <pb n="1" facs="tcp:102593:3"/>
+            <head>The Paper which was Seiz<g ref="char:EOLhyphen"/>ed in the E. of <hi>Shaftsbury</hi>'s Closet by <hi>Fran. Gwin</hi> Esq; One of the Clerks of His Majesties Most Honoura<g ref="char:EOLhyphen"/>ble Privy Council, and Read <hi>Novemb.</hi> 24. 1681. at the <hi>Old Baily,</hi> before His Majesties Commissioners of <hi>Oyer</hi> and <hi>Terminer.</hi>
+            </head>
+            <p>WE the Knights, <hi>&amp;c.</hi> Find<g ref="char:EOLhyphen"/>ing to the grief of our Hearts, the Popish Priests and Jesuits with the Papists, and their Adherents and Abetters have for seve<g ref="char:EOLhyphen"/>ral years last past pursued a most per<g ref="char:EOLhyphen"/>nicious and hellish Plot, to root out the true Protestant Religion as a pestilent Heresie, to take away the Life of our Gracious King, to subvert our Laws and Liberties, and to set up Arbitrary power and Popery.</p>
+            <p>And it being Notorious that they have been highly encouraged by the Countenance and Protection given and procured for them by <hi>J. D.</hi> of <hi>Y.</hi> and by their Expectations of his succeeding to the Crown, and that through crafty Popish Councils his Designs have so far prevailed that he hath created ma<g ref="char:EOLhyphen"/>ny and great Dependents upon him by his bestowing Offices and Preferments both in Church and State.</p>
+            <p>It appearing also to us, That by his Influence Mercenary Forces have been levied and kept on Foot for his secret Designs contrary to our Laws; the
+<pb n="2" facs="tcp:102593:4"/>Officers thereof having been named and appointed by him, to the apparent hazard of His Majesties Person, our Religion and Government, if the danger had not been timely foreseen by several Parliaments, and part of those Forces with great difficulty, caused by them to be Disbanded at the Kingdoms great Expence: And it being Evident, that notwithstanding all the continual endeavours of the Parliament to deli<g ref="char:EOLhyphen"/>ver His Majesty from the Councils, and out of the power of the said <hi>D.</hi> yet his Interest in the Ministry of State and others have been so prevalent, that Parliaments have been unreasonably Prorogued, and Dissolved when they have been in hot pursuit of the Popish Conspiracies, and ill Ministers of State their Assistants.</p>
+            <p>And that the said <hi>D.</hi> in order to re<g ref="char:EOLhyphen"/>duce all into his own power hath procu<g ref="char:EOLhyphen"/>red the Garrisons, the Army and Am<g ref="char:EOLhyphen"/>munition, and all the power of the Seas and Souldiery, and Lands belong<g ref="char:EOLhyphen"/>ing to these three Kingdoms to be put into the hands of his Party and their Adherents, even in opposition to the Ad<g ref="char:EOLhyphen"/>vice and Order of the last Parliament.</p>
+            <p>And as we considering with heavy Hearts how greatly the Strength, Reputa<g ref="char:EOLhyphen"/>tion and Treasure of the Kingdom both at Sea and Land is Wasted and Con<g ref="char:EOLhyphen"/>sumed, and lost by the intricate expensive management of these wicked destru<g ref="char:EOLhyphen"/>ctive Designs; and finding the same Councils after exemplary Justice upon some of the Conspirators, to be still pursued with the utmost devilish malice, and de<g ref="char:EOLhyphen"/>sire of Revenge; whereby His Majesty is in continual hazard of being Mur<g ref="char:EOLhyphen"/>dered to make way for the said <hi>D</hi>'s Advancement to the Crown, and the whole Kingdom in such case is destitute of all security of their Religion, Laws, Estates, and Liberty, sad experience in the Case, Queen <hi>Mary</hi> having proved the wisest Laws to be of little force to keep out Popery and Tyranny under a Popish Prince.</p>
+            <p>We have therefore endeavoured in a Parliamentary way by a Bill for the purpose to Bar and Exclude the said Duke from the Succession to the Crown,
+<pb n="3" facs="tcp:102593:4"/>and to Banish him for ever out of these Kingdoms of <hi>England</hi> and <hi>Ireland.</hi> But the first Means of the King and Kingdoms Safety being utterly rejected, and we left almost in Despair of obtaining any real and effectual security, and knowing our selves to be intrusted to Advise and Act for the preservation of His Majesty and the Kingdom, and being persuaded in our Consciences that the dangers aforesaid are so eminent and pressing, that there ought to be no de<g ref="char:EOLhyphen"/>lay of the best means that are in our power to secure the Kingdom against them. We have thought fit to propose to all true Protestants an Union amongst them<g ref="char:EOLhyphen"/>selves by solemn and sacred promise of mutual Defence and Assistance in the preservation of the true Protestant Religion, His Majesties Person and Royal State, and our Laws, Liberties and Properties, and we hold it our bounden Duty to joyn our selves for the same intent in a Declaration of our United Affections and Resolutions in the Form insuing,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>I <hi>A. B.</hi> Do in the presence of God solemnly Promise, Vow, and Protest to maintain and de<g ref="char:EOLhyphen"/>fend to the utmost of my Power, with my Person and Estate, the true Protestant Religion against Popery and all Popish Super<g ref="char:EOLhyphen"/>stition, Idolatry, or Innovation, and all those who do or shall en<g ref="char:EOLhyphen"/>deavour to spread or advance it within this Kingdom.</p>
+                        <p>I will also as far as in me lies maintain and defend His Maje<g ref="char:EOLhyphen"/>sties Royal Person and Estate; as also the power and priviledge of Parliaments, the lawful Rights and Liberties of the Subject, a<g ref="char:EOLhyphen"/>gainst all Incroachments and Usurpation of Arbitrary power whatsoever, and endeavour in<g ref="char:EOLhyphen"/>tirely to Disband all such merce<g ref="char:EOLhyphen"/>nary Forces as, we have reason to believe, were raised to Ad<g ref="char:EOLhyphen"/>vance it, and are still kept up in and about the City of <hi>London</hi> to the great Amazement and Terror of all the good People of the Land.</p>
+                        <pb n="4" facs="tcp:102593:5"/>
+                        <p> Moreover J. D. of Y. having publickly professed and owned the Popish Religion, and notori<g ref="char:EOLhyphen"/>ously given Life and Birth to the Damnable and Hellish Plots of the Papists against His Majesties Person, the Protestant Religion, and the Government of this Kingdom; I will never consent that the said J. D. of Y. or any other, who is or hath been a Pa<g ref="char:EOLhyphen"/>pist, or any ways adher'd to the Papists in their wicked Designs be admitted to the Succession of the Crown of <hi>England.</hi> But by all lawful means and by force of Arms, if need so require, ac<g ref="char:EOLhyphen"/>cording to my Abilities, will op<g ref="char:EOLhyphen"/>pose him, and endeavour to Sub<g ref="char:EOLhyphen"/>due, Expel and Destroy him, if he come into <hi>England,</hi> or the Dominions thereof; and seek by force to set up his pretended Ti<g ref="char:EOLhyphen"/>tle, and all such as shall Adhere unto him, or raise any War, Tu<g ref="char:EOLhyphen"/>mult, or Sedition for him, or by his Command, as publick Ene<g ref="char:EOLhyphen"/>mies of our Laws, Religion and Countrey.</p>
+                        <p>
+                           <hi>To this end we and every one of us whose hands are here under-written, do most willingly bind our selves and every one of us unto the other joyntly and severally, in the Bond of one firm and loyal Society or Association, and do promise and vow before God, That with our joynt and particular Forces we will oppose and pursue unto De<g ref="char:EOLhyphen"/>struction all such as upon any Title whatsoever shall oppose the Just and
+<pb n="5" facs="tcp:102593:5"/>Righteous ends of this Association; and Maintain, Protect and Defend all such as shall enter into it in the just performance of the true intent and meaning of it. And lest this just and pious work should be any ways obstru<g ref="char:EOLhyphen"/>cted or hindered for want of Discipline and Conduct, or any evil minded persons under pretence of raising Forces for the service of this Association, should at<g ref="char:EOLhyphen"/>tempt or commit Disorders, we will fol<g ref="char:EOLhyphen"/>low such Orders as we shall from time to time receive from this present Par<g ref="char:EOLhyphen"/>liament, whilst it shall be sitting, or the major part of the Members of both Hou<g ref="char:EOLhyphen"/>ses subscribing this Association, when it shall be Prorogued or Dissolved, and obey such Officers as shall by them be set over us in the several Countreys, Cities, and Burroughs, until the next meeting of this or another Parliament, and will then shew the same Obedience and Submission unto it, and those who shall be of it.</hi>
+                        </p>
+                        <p>
+                           <hi>Neither will we for any respect of Persons or Causes, or for Fear, or Re<g ref="char:EOLhyphen"/>ward separate our selves from this Association, or fail in the Prosecution thereof during our Lives, upon pain of being by the rest of us prosecuted, and suppressed as Perjur'd persons, and publick Enemies to God, the King, and our Native Countrey.</hi>
+                        </p>
+                        <p>
+                           <hi>To which Pains and Punishments we do voluntarily submit our selves, and every one of us, without benefit of any Colour or Pretence to excuse us.</hi>
+                        </p>
+                        <closer>
+                           <dateline>In Witness of all which Premisses to be invio<g ref="char:EOLhyphen"/>lably kept, we do to this present Writing put our hands and Seals, and shall be most ready to accept and admit any others here<g ref="char:EOLhyphen"/>after into this Society and Association.</dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="list_of_oath-takers">
+            <head>The Names of the Members that took the New Oaths and Covenants agreed on. <hi>Tuesday, June 6. 1643.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>MR.</hi> Speaker</item>
+               <item>
+                  <hi>Mr.</hi> White</item>
+               <item>
+                  <hi>Sir</hi> Robert Harley</item>
+               <item>
+                  <hi>Sir</hi> Nevil Poole</item>
+               <item>
+                  <hi>Sir</hi> Robert Pye</item>
+               <item>
+                  <hi>Sir</hi> Thomas Cheek</item>
+               <item>
+                  <hi>Sir</hi> Oliver Luke</item>
+               <item>
+                  <hi>Sir</hi> Bewchampe <hi>St.</hi> John</item>
+               <item>
+                  <hi>Mr.</hi> Oldsworth</item>
+               <item>
+                  <hi>Sir</hi> William Armyn</item>
+               <item>
+                  <hi>Mr.</hi> Pym</item>
+               <item>
+                  <hi>Sir</hi> Henry Vane <hi>Junior</hi>
+               </item>
+               <pb n="6" facs="tcp:102593:6"/>
+               <item>
+                  <hi>Sir</hi> Benjamin Rudyard</item>
+               <item>
+                  <hi>Sir</hi> Arthur Haslerig</item>
+               <item>
+                  <hi>Sir</hi> Gilbert Gerard</item>
+               <item>
+                  <hi>Mr.</hi> Solicitor</item>
+               <item>
+                  <hi>Mr.</hi> Hatcher</item>
+               <item>
+                  <hi>Lord</hi> Ruthen</item>
+               <item>
+                  <hi>Mr.</hi> Sam. Browne</item>
+               <item>
+                  <hi>Mr.</hi> Valentine</item>
+               <item>
+                  <hi>Sir</hi> Harbottle Grimston</item>
+               <item>
+                  <hi>Coll.</hi> John Moore</item>
+               <item>
+                  <hi>Mr.</hi> Jenner</item>
+               <item>
+                  <hi>Sir</hi> John Evelyn <hi>Junior</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Hollis</item>
+               <item>
+                  <hi>Mr.</hi> Downes</item>
+               <item>
+                  <hi>Mr.</hi> Blakestone</item>
+               <item>
+                  <hi>Sir</hi> Tho. Dacres</item>
+               <item>
+                  <hi>Sir</hi> John Wray</item>
+               <item>
+                  <hi>Mr.</hi> Browne <hi>of</hi> Kent</item>
+               <item>
+                  <hi>Sir</hi> Henry Anderson</item>
+               <item>
+                  <hi>Mr.</hi> Barwis</item>
+               <item>
+                  <hi>Sir</hi> Peter Wroth</item>
+               <item>
+                  <hi>Mr.</hi> Cecill</item>
+               <item>
+                  <hi>Mr.</hi> Scowen</item>
+               <item>
+                  <hi>Mr.</hi> Bainton</item>
+               <item>
+                  <hi>Mr.</hi> Corbet</item>
+               <item>
+                  <hi>Sir</hi> John Harrison</item>
+               <item>
+                  <hi>Mr.</hi> Brett</item>
+               <item>
+                  <hi>Sir</hi> Cristopher Yelverton</item>
+               <item>
+                  <hi>Mr.</hi> John Harvey</item>
+               <item>
+                  <hi>Mr.</hi> Harbottle Grimston</item>
+               <item>
+                  <hi>Mr.</hi> John Selden</item>
+               <item>
+                  <hi>Sir</hi> John Clotworthy</item>
+               <item>
+                  <hi>Mr.</hi> Pierpoint</item>
+               <item>
+                  <hi>Sir</hi> Ralph Verney</item>
+               <item>
+                  <hi>Sir</hi> Henry Cholmely</item>
+               <item>
+                  <hi>Mr.</hi> Edmund Dunch</item>
+               <item>
+                  <hi>Mr.</hi> John Glyn</item>
+               <item>
+                  <hi>Sir</hi> Will. Littleton</item>
+               <item>
+                  <hi>Mr.</hi> Trenchard</item>
+               <item>
+                  <hi>Mr.</hi> Will. Cage</item>
+               <item>
+                  <hi>Sir</hi> Simon D'Ewes</item>
+               <item>
+                  <hi>Mr.</hi> Gilbert Millington</item>
+               <item>
+                  <hi>Mr.</hi> William Ellis</item>
+               <item>
+                  <hi>Sir</hi> Tho. Barrington</item>
+               <item>
+                  <hi>Sir</hi> Anthony Irby</item>
+               <item>
+                  <hi>Sir</hi> Tho. Jervis</item>
+               <item>
+                  <hi>Mr.</hi> Douse</item>
+               <item>
+                  <hi>Mr.</hi> Hugh Rogers</item>
+               <item>
+                  <hi>Sir</hi> John Hippesley</item>
+               <item>
+                  <hi>Mr.</hi> Serjeant Wild</item>
+               <item>
+                  <hi>Sir</hi> Dudley North</item>
+               <item>
+                  <hi>Mr.</hi> Lawrence Whittacre</item>
+               <item>
+                  <hi>Sir</hi> John Curson</item>
+               <item>
+                  <hi>Mr.</hi> John Wastall</item>
+               <item>
+                  <hi>Mr.</hi> Cornelius Holland</item>
+               <item>
+                  <hi>Coll.</hi> Walther Long</item>
+               <item>
+                  <hi>Mr.</hi> George Gallop</item>
+               <item>
+                  <hi>Mr.</hi> William Bell</item>
+               <item>
+                  <hi>Mr.</hi> Skinner</item>
+               <item>
+                  <hi>Mr.</hi> John Nash</item>
+               <item>
+                  <hi>Mr.</hi> James Cambel</item>
+               <item>
+                  <hi>Sir</hi> John Young</item>
+               <item>
+                  <hi>Sir</hi> Robert Parkurst</item>
+               <item>
+                  <hi>Mr.</hi> Edward Exton</item>
+               <item>
+                  <hi>Mr.</hi> Edward Thomas</item>
+               <item>
+                  <hi>Mr.</hi> Herbert</item>
+               <item>
+                  <hi>Mr.</hi> Nath. Stephens</item>
+               <item>
+                  <hi>Mr.</hi> Moyle</item>
+               <item>
+                  <hi>Mr.</hi> Young</item>
+               <item>
+                  <hi>Mr.</hi> Michael Noble</item>
+               <item>
+                  <hi>Mr.</hi> Will. Whittacre</item>
+               <item>
+                  <hi>Mr.</hi> Will. Cawley</item>
+               <item>
+                  <hi>Mr.</hi> John Harris</item>
+               <item>
+                  <hi>Mr.</hi> Tho. Lane</item>
+               <item>
+                  <hi>Mr.</hi> Owner</item>
+               <item>
+                  <hi>Mr.</hi> Edw. Poole</item>
+               <item>
+                  <hi>Mr.</hi> Arthur Jones</item>
+               <item>
+                  <hi>Mr.</hi> Campian</item>
+               <item>
+                  <hi>Mr.</hi> Bulstrode Whitlock</item>
+               <item>
+                  <hi>Mr.</hi> Tailor</item>
+               <item>
+                  <hi>Mr.</hi> John Jepson</item>
+               <item>
+                  <hi>Sir</hi> John Potts</item>
+               <item>
+                  <hi>Mr.</hi> Richard Lee</item>
+               <item>
+                  <hi>Mr</hi> Tho. Sandis</item>
+               <item>
+                  <hi>Mr.</hi> Tho. Eden <hi>Dr. of the Civil Law.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Hen. Lucas</item>
+               <item>
+                  <hi>Mr.</hi> Richard Harmon</item>
+               <item>
+                  <hi>Mr.</hi> John Lisle</item>
+               <item>
+                  <hi>Mr.</hi> Rob. Goodwin</item>
+               <item>
+                  <hi>Mr.</hi> Will. Ashhurst</item>
+               <item>
+                  <hi>Mr.</hi> John Nutt</item>
+               <item>
+                  <hi>Sir</hi> Nathan. Barnardiston</item>
+               <item>
+                  <hi>Mr.</hi> Tho. Hoyle</item>
+               <item>
+                  <hi>Sir</hi> John Gourdon</item>
+               <item>
+                  <hi>Mr.</hi> Rob. Reynolds</item>
+               <item>
+                  <hi>Mr.</hi> Henry Darley</item>
+               <item>
+                  <hi>Mr.</hi> Sam. Vassal</item>
+               <item>
+                  <hi>Mr.</hi> John Goodwi</item>
+               <item>
+                  <hi>Sir</hi> Roger North</item>
+               <item>
+                  <hi>Mr.</hi> John Browne <hi>Dorset</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Richard Rose</item>
+               <item>
+                  <hi>Mr.</hi> Giles Green</item>
+               <item>
+                  <hi>Mr.</hi> Tho. Moore</item>
+               <item>
+                  <hi>Mr.</hi> Edmond Prideanx</item>
+               <item>
+                  <hi>Mr.</hi> Roger Hill</item>
+               <item>
+                  <hi>Mr.</hi> Will. Strode</item>
+               <item>
+                  <hi>Mr.</hi> Dennis Bond</item>
+               <item>
+                  <hi>Mr.</hi> Edw. Ash</item>
+               <item>
+                  <hi>Mr.</hi> Richard Moore</item>
+               <item>
+                  <hi>Mr.</hi> Zouch Tate</item>
+               <item>
+                  <hi>Mr.</hi> Robert Nicholas</item>
+               <item>
+                  <hi>Mr.</hi> Will. Smith</item>
+               <item>
+                  <hi>Mr.</hi> Will. Spurstowe</item>
+               <item>
+                  <hi>Mr.</hi> Framlingham Gawdy</item>
+               <item>
+                  <hi>Sir</hi> Alexander Denton</item>
+               <item>
+                  <hi>Mr.</hi> Lowrey</item>
+               <item>
+                  <hi>Mr.</hi> Tho. Hodges</item>
+               <item>
+                  <hi>Mr.</hi> Humphry Salloway</item>
+               <item>
+                  <hi>Sir</hi> Peter Wentworth</item>
+               <item>
+                  <hi>Mr.</hi> Fountain</item>
+               <item>
+                  <hi>Mr.</hi> Gervaise</item>
+               <item>
+                  <hi>Mr.</hi> Will. Wheeler</item>
+               <item>
+                  <hi>Mr.</hi> Fitz-Williams</item>
+               <item>
+                  <hi>Mr.</hi> Richard Jennings</item>
+               <item>
+                  <hi>Sir</hi> Henry Ludlow</item>
+               <item>
+                  <hi>Sir</hi> Edward Bainton</item>
+               <item>
+                  <hi>Sir</hi> Edw. Littleton</item>
+               <item>
+                  <hi>Mr.</hi> Knightly</item>
+               <item>
+                  <hi>Mr.</hi> Francis Drake</item>
+               <item>
+                  <hi>Mr.</hi> Jesson</item>
+               <item>
+                  <hi>Mr.</hi> Henry Pelham</item>
+               <item>
+                  <hi>Sir</hi> Tho. Earle</item>
+               <item>
+                  <hi>Sir</hi> George Stonehouse</item>
+               <item>
+                  <hi>Sir</hi> Martin Lister</item>
+               <item>
+                  <hi>Mr.</hi> Francis Rous</item>
+               <item>
+                  <hi>Mr.</hi> Ralph Ashton</item>
+               <item>
+                  <hi>Mr.</hi> Henry Martin</item>
+               <item>
+                  <hi>Mr.</hi> John Roll</item>
+               <item>
+                  <hi>Sir</hi> John Dreyden</item>
+               <item>
+                  <hi>Mr.</hi> Philip Smith</item>
+               <item>
+                  <hi>Mr.</hi> Squire Bence</item>
+               <item>
+                  <hi>Mr.</hi> Peregrin Pelham</item>
+               <item>
+                  <hi>Mr.</hi> Anthony Beddingfield</item>
+               <item>
+                  <hi>Mr.</hi> John Allured</item>
+               <item>
+                  <hi>Sir</hi> John Corbet</item>
+               <item>Tho. <hi>Lord</hi> Wenman</item>
+            </list>
+         </div>
+         <div type="document">
+            <pb n="7" facs="tcp:102593:6"/>
+            <head>The Names of the <hi>Grand-Jury</hi> for the County of <hi>Middlesex,</hi> who without stirring from the Bar, found the Bill of Indictment against the Earl of <hi>Danby,</hi> upon the single Testimony of <hi>Edward Fitz-Harris</hi> in open Court, a Prisoner at Bar then Arraigned; afterwards Codemned and Executed for High Treason.</head>
+            <p>
+               <hi>Fitz-Harris</hi> gave Evidence of what Monsieur <hi>Dupuy</hi> told him concerning the Earl of <hi>Danby</hi> at <hi>Windsor;</hi> and that he saw the Earl of <hi>Danby</hi> there come forth of a Room, and as the Earl went down Stairs he heard the Earl of <hi>Danby</hi> say, <hi>That he would break the Heart of Sir</hi> Edmond-bury Godfrey; and declared that was all he could Witness against him. And going out of Court, he heard one of the Judges observe, <hi>That this whole Fact was in another County, and not inquirable by this Jury;</hi> whereupon he returned in haste back again and said <hi>Gentlemen of the Jury, I heard the Earl of</hi> Danby <hi>speak the same words at St.</hi> James, <hi>and then de<g ref="char:EOLhyphen"/>parted.</hi> This was all the Evidence he gave to the <hi>Grand-Jury</hi> of any Words or Fact in the County of <hi>Middlesex.</hi>
+            </p>
+            <list>
+               <item>Sir <hi>William Roberts</hi> of <hi>Wilsdon,</hi> Bar.</item>
+               <item>Sir <hi>William Cowper,</hi> Baronet</item>
+               <item>
+                  <hi>Henry Herbert,</hi> Esq;</item>
+               <item>
+                  <hi>Edward Boscowen,</hi> Esq;</item>
+               <item>
+                  <hi>Thomas Barnardiston,</hi> Esq;</item>
+               <item>
+                  <hi>Thomas Henslow,</hi> Esq;</item>
+               <item>
+                  <hi>Walter Moyle,</hi> Esq;</item>
+               <item>
+                  <hi>Josias Clarke,</hi> Esq;</item>
+               <item>
+                  <hi>Thomas Austen,</hi> Esq;</item>
+               <item>
+                  <hi>Thomas Marsh</hi> Esq;</item>
+               <item>
+                  <hi>William Bourne,</hi> Esq;</item>
+               <item>
+                  <hi>Edward Hutchins,</hi> Gent.</item>
+               <item>
+                  <hi>Joseph Ratcliffe,</hi> Gent.</item>
+               <item>
+                  <hi>Crisp Grange,</hi> Gent.</item>
+               <item>
+                  <hi>Henry Gerrard,</hi> Gent,</item>
+               <item>
+                  <hi>Robert Breedon,</hi> Gent.</item>
+               <item>
+                  <hi>George Page,</hi> Gent.</item>
+               <item>
+                  <hi>John Harwood,</hi> Gent.</item>
+               <item>
+                  <hi>John Raymond,</hi> Gent.</item>
+               <item>
+                  <hi>Christopher Dodsworth,</hi> Gent.</item>
+               <item>
+                  <hi>Henry Dealing,</hi> Gent.</item>
+               <item>
+                  <hi>Edward Watts,</hi> Gent.</item>
+               <item>
+                  <hi>Augustine Beare,</hi> Gent.</item>
+            </list>
+         </div>
+         <div type="document">
+            <head>The Grand-Jury for <hi>Fitz-Harris.</hi>
+            </head>
+            <list>
+               <item>Michael Godfrey, <hi>of</hi> Edmonton.</item>
+               <item>John Hill <hi>of</hi> Enfield.</item>
+               <item>William Hundow <hi>of</hi> Enfield, <hi>Gent.</hi>
+               </item>
+               <item>Thomas Curtis <hi>of the same, Gent.</hi>
+               </item>
+               <item>Elizeus Wyberd <hi>of the same, Gent.</hi>
+               </item>
+               <item>John Read <hi>of</hi> Tottenham, <hi>Gent.</hi>
+               </item>
+               <item>Jeremy Benton <hi>of the same, Gent.</hi>
+               </item>
+               <item>John Young <hi>of</hi> Enfield, <hi>Gent.</hi>
+               </item>
+               <item>Edward Johnson <hi>of</hi> South-Myms, <hi>Gent.</hi>
+               </item>
+               <item>John Page <hi>of</hi> Pinner, <hi>Gent.</hi>
+               </item>
+               <item>John Blott <hi>of</hi> Hendon, <hi>Gent.</hi>
+               </item>
+               <item>Francis Peters <hi>of</hi> Great-St<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nmore, <hi>Gen.</hi>
+               </item>
+               <item>Joh. Greenhill <hi>of</hi> Harrow on the Hill, <hi>G.</hi>
+               </item>
+               <item>John Newman <hi>of the same, Gent.</hi>
+               </item>
+               <item>Thomas Rance <hi>of the same, Gent.</hi>
+               </item>
+               <item>John Bird <hi>of the same, Gent.</hi>
+               </item>
+               <item>John Taylor <hi>of the same, Gent.</hi>
+               </item>
+               <item>James Marsh <hi>of</hi> Hendon, <hi>Gent.</hi>
+               </item>
+               <item>John Todd <hi>of</hi> Pynner, <hi>Gent.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="document">
+            <pb n="8" facs="tcp:102593:7"/>
+            <head>The Petty-Jury for <hi>Fitz-Harris.</hi>
+            </head>
+            <list>
+               <item>Thomas Johnson <hi>of</hi> Mile-end, <hi>Esq;</hi>
+               </item>
+               <item>Lucy Knightly <hi>of</hi> Hackney, <hi>Esq;</hi>
+               </item>
+               <item>Edward Wilford, jun. <hi>of</hi> Enfield, <hi>Gent.</hi>
+               </item>
+               <item>Alexander Hosea <hi>of</hi> Hackney, <hi>Gent.</hi>
+               </item>
+               <item>Martin James <hi>of</hi> Wapping, <hi>Gent.</hi>
+               </item>
+               <item>John Vyner <hi>of</hi> Whitechappel, <hi>Gent.</hi>
+               </item>
+               <item>William Withers <hi>of</hi> Cripplegate.</item>
+               <item>William Cleive <hi>of the same.</hi>*</item>
+               <item>Thomas Goffe <hi>of</hi> Stepney.</item>
+               <item>Ralph Far <hi>of the same.</hi>
+               </item>
+               <item>Samuel Freebody <hi>of S.</hi> Johns-street.</item>
+               <item>John Lockyer <hi>of</hi> Westminster.</item>
+            </list>
+         </div>
+         <div type="document">
+            <head>The Grand-Jury for <hi>College.</hi>
+            </head>
+            <list>
+               <item>John Wilmore, <hi>Leatherseller.</hi>
+               </item>
+               <item>William Mackly, <hi>Strong-Waterman.</hi>
+               </item>
+               <item>Sampson Puller, <hi>Taylor.</hi>
+               </item>
+               <item>Thomas Cope, <hi>Upholster.</hi>
+               </item>
+               <item>Peter Mortimer, <hi>Confectioner.</hi>
+               </item>
+               <item>John Wood, <hi>Brasier.</hi>
+               </item>
+               <item>Thomas Haynes, <hi>Carpenter,</hi>
+               </item>
+               <item>Thomas Fox, <hi>Apothecary.</hi>
+               </item>
+               <item>John Read, <hi>Millener.</hi>
+               </item>
+               <item>Mark Stretton, <hi>Apothecary.</hi>
+               </item>
+               <item>Edward Powel, <hi>Book-Binder.</hi>
+               </item>
+               <item>Paul Dorrel, <hi>Servant to the Countess of</hi> Exeter: <hi>no Freeman.</hi>
+               </item>
+               <item>Francis Lasco, <hi>Druggist.</hi>
+               </item>
+               <item>John Armiger, <hi>Shoe-maker.</hi>
+               </item>
+               <item>Samuel Totton, <hi>Mercer.</hi>
+               </item>
+               <item>John Pettit, <hi>Woollen-Draper.</hi>
+               </item>
+               <item>Samuel Maine, <hi>Linnen-Draper.</hi>
+               </item>
+               <item>Caleb Hooke, <hi>Merchant.</hi>
+               </item>
+               <item>Robert Davies, <hi>Apothecary.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="document">
+            <head>The Grand-Jury for <hi>Rouse.</hi>
+            </head>
+            <list>
+               <item>James Denew.</item>
+               <item>John Elwick.</item>
+               <item>Thomas Shaw.</item>
+               <item>Richard Tilden.</item>
+               <item>William Carbonel.</item>
+               <item>Josias Smith.</item>
+               <item>Joseph Jackson.</item>
+               <item>Samuel Crisp.</item>
+               <item>Humphrey Rogers.</item>
+               <item>John Showel.</item>
+               <item>John Loggins.</item>
+               <item>Edmond Shermon.</item>
+               <item>John Hamond.</item>
+               <item>Jtseph Web.</item>
+               <item>Peter Essington.</item>
+               <item>John Newton.</item>
+               <item>Isaac Delillers.</item>
+               <item>Samuel Round.</item>
+               <item>Henry Weade.</item>
+            </list>
+         </div>
+         <div type="document">
+            <head>The Grand-Jury for the E. of <hi>Shaftsbury.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>Sir</hi> Samuel Barnardiston.</item>
+               <item>John Morden.</item>
+               <item>Thomas Papillon.</item>
+               <item>John Dubois.</item>
+               <item>Charles Hearle.</item>
+               <item>Edward Rudge.</item>
+               <item>Humphrey Edwin</item>
+               <item>John Morrice.</item>
+               <item>Edmund Harrison.</item>
+               <item>Joseph Wright.</item>
+               <item>John Cox.</item>
+               <item>Thomas Parker.</item>
+               <item>Leonard Robinson.</item>
+               <item>Thomas Shepherd.</item>
+               <item>John Flavell.</item>
+               <item>Michael Godfrey.</item>
+               <item>Joseph Richardson.</item>
+               <item>William Empson.</item>
+               <item>Andrew Kendrick.</item>
+               <item>John Lane.</item>
+               <item>John Hall.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
